@@ -1,5 +1,7 @@
 # [Your Ultimate Guide to AKS Infrastructure and Network: Elevate Your Kubernetes Skills with In-Depth AKS Infrastructure and Network Management](https://www.linkedin.com/learning/your-ultimate-guide-to-aks-infrastructure-and-network-elevate-your-kubernetes-skills-with-in-depth-aks-infrast)
 ## [Contents](./Contents/)
+0. [Kubernetes and AKS Architecture](./Contents/000-Kubernetes-and-AKS-Architecture/)
+    1. [AKS architecture revisited](./Contents/000-Kubernetes-and-AKS-Architecture/000-001-Video-AKS-architecture-revisited/)
 ## [Instructor](./Instructor/)
 ## [Course details](./Course-details/)
 ## [Learning objectives](./Learning-objectives/)
